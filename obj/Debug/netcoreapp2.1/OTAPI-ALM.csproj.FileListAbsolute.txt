@@ -1,0 +1,11 @@
+/home/sandeep/Desktop/OTAPI-ALM/bin/Debug/netcoreapp2.1/OTAPI-ALM.deps.json
+/home/sandeep/Desktop/OTAPI-ALM/bin/Debug/netcoreapp2.1/OTAPI-ALM.runtimeconfig.json
+/home/sandeep/Desktop/OTAPI-ALM/bin/Debug/netcoreapp2.1/OTAPI-ALM.runtimeconfig.dev.json
+/home/sandeep/Desktop/OTAPI-ALM/bin/Debug/netcoreapp2.1/OTAPI-ALM.dll
+/home/sandeep/Desktop/OTAPI-ALM/bin/Debug/netcoreapp2.1/OTAPI-ALM.pdb
+/home/sandeep/Desktop/OTAPI-ALM/obj/Debug/netcoreapp2.1/OTAPI-ALM.csprojAssemblyReference.cache
+/home/sandeep/Desktop/OTAPI-ALM/obj/Debug/netcoreapp2.1/OTAPI-ALM.csproj.CoreCompileInputs.cache
+/home/sandeep/Desktop/OTAPI-ALM/obj/Debug/netcoreapp2.1/OTAPI-ALM.AssemblyInfoInputs.cache
+/home/sandeep/Desktop/OTAPI-ALM/obj/Debug/netcoreapp2.1/OTAPI-ALM.AssemblyInfo.cs
+/home/sandeep/Desktop/OTAPI-ALM/obj/Debug/netcoreapp2.1/OTAPI-ALM.dll
+/home/sandeep/Desktop/OTAPI-ALM/obj/Debug/netcoreapp2.1/OTAPI-ALM.pdb

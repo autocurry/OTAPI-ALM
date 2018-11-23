@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>OTAPI_ALM</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="OTAClient12.DotNet" Version="1.0.1"/>
+  </ItemGroup>
+</Project>

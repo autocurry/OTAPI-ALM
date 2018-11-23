@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "1f9d1ac558f52ff0f05aa4cfef9cb7d8663332af"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "OTAPI-ALM/1.0.0": {
+        "dependencies": {
+          "OTAClient12.DotNet": "1.0.1"
+        },
+        "runtime": {
+          "OTAPI-ALM.dll": {}
+        }
+      },
+      "OTAClient12.DotNet/1.0.1": {
+        "runtime": {
+          "lib/net/OTAClient.Api.dll": {
+            "assemblyVersion": "12.1.0.0",
+            "fileVersion": "12.1.2526.0"
+          },
+          "lib/net/OTAClient.Core.dll": {
+            "assemblyVersion": "12.1.0.0",
+            "fileVersion": "12.1.2526.0"
+          },
+          "lib/net/OTAClient.Entities.dll": {
+            "assemblyVersion": "12.1.0.0",
+            "fileVersion": "12.1.2526.0"
+          },
+          "lib/net/QCClient.Library.dll": {
+            "assemblyVersion": "12.1.0.0",
+            "fileVersion": "12.1.2526.0"
+          },
+          "lib/net/QCClient.QCExtension.UI.Shared.dll": {
+            "assemblyVersion": "12.1.0.0",
+            "fileVersion": "12.1.2526.0"
+          },
+          "lib/net/TDAPIOLELib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "lib/net/interop.OTAClient.dll": {
+            "assemblyVersion": "12.1.9999.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OTAPI-ALM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OTAClient12.DotNet/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QinQB6I3k6GLMjCPw/rlLB9+MNrGuC8nUcnu6qLTG3dC6dWNt85ECgdIaupcJ/SW9pMJxfC5dPiEdlAUlXTreg==",
+      "path": "otaclient12.dotnet/1.0.1",
+      "hashPath": "otaclient12.dotnet.1.0.1.nupkg.sha512"
+    }
+  }
+}
